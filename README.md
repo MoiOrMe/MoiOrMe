@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey 👋
 
-<!--
-**MoiOrMe/MoiOrMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Robin, un gameplay developper principalement sur le moteur Unity.
 
-Here are some ideas to get you started:
+Je suis actuellement en train de me construire une bibliothèque de scène afin de pouvoir commencer plus rapidement mes projets plus tard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai créé ce profil il y a 5 ans dans le cadre des cours, tout les projets y sont encore stocker. Ainsi mon évolution est facilement traçable.
+
+---
+
+### Logiciels Utilisés
+- Unity, C#
+- Blender, Piskel, Gimp
+- Notion, GitHub
+
+---
+
+### A Propos de Moi
+- 🎮 Grand joueur de jeux vidéos 
+- 🧠 Aime découvrir et apprendre
+- 🎥 Aime le cinéma - Oppenheimer est mon film préféré
+- 📊 Fou de données - Je tiens un environnement Notion qui permet d'avoir plein de données sur ma vie et mon quotidien
